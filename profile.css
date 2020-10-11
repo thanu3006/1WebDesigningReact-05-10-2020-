@@ -1,0 +1,47 @@
+
+.data{
+	display: flex;
+	border:2px solid red;
+	padding: 1%;
+	margin: 1%;
+   }
+   .data>div{
+	width: 30%;
+	border:2px solid blue;
+	padding: 1%;
+	margin: 1%;
+	text-align: center;
+	box-shadow: 10px 0px 10px 0px skyblue;
+   }
+   
+
+   img{
+	width: 200px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+   }
+
+
+   a{
+	text-decoration: none;
+   }
+
+   h2{
+	color: maroon;
+   }
+   h3{
+	color: teal;
+   }
+
+   button{
+	box-shadow: 2px 2px 2px 2px blue;
+	width: 40%;
+   }
+
+
+
+   hr{
+	color:blue;
+   }
